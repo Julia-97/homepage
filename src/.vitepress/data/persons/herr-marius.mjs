@@ -2,7 +2,7 @@ import { TeamID, definePerson } from '../..';
 
 export default definePerson({
     avatar: 'https://www.github.com/SirHerr.png',
-    name: 'Dr. Marius Herr',
+    name: 'Marius Herr',
     role: 'Researcher',
     team: TeamID.TBI,
     socialLinks: [
